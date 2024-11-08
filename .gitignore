@@ -1,0 +1,9 @@
+# .gitignore
+
+.vagrant/
+*.log
+*.bak
+*.swp
+*.iml
+*.idea/
+
